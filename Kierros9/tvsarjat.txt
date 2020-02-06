@@ -1,0 +1,18 @@
+True Detective;Rikos,Draama,Mysteeri
+Orange Is the New Black;Komedia,Rikos,Draama
+Game of Thrones;Seikkailu,Draama,Fantasia
+Sense8;Draama,Sci-Fi
+Pukumiehet;Komedia,Draama
+The Walking Dead;Draama,Kauhu
+Daredevil;Toiminta,Rikos,Draama
+Breaking Bad;Rikos,Draama,Trilleri
+Supernatural;Draama,Fantasia,Kauhu,Mysteeri,Trilleri
+Viikingit;Toiminta,Draama,Historia,Sota
+Greyn anatomia;Draama,Romanssi
+Orphan Black;Toiminta,Draama,Sci-Fi
+Rillit huurussa;Komedia
+House of Cards;Draama
+Olipa kerran;Seikkailu,Fantasia,Romanssi
+Frendit;Komedia,Romanssi
+Langalla;Rikos,Draama,Trilleri
+Taisteluplaneetta Galactica;Toiminta,Seikkailu,Draama,Sci-Fi

@@ -1,0 +1,12 @@
+Muumimamma:3.3
+Pikku Myy:1.3
+Muumimamma:2.9
+Niiskuneiti:2.2
+Muumimamma:8.9
+Muumipappa:3.9
+Niiskuneiti:3.8
+Muumipeikko:2.2
+Muumimamma:1.3
+Niiskuneiti:2.0
+Muumipeikko:3.2
+Muumimamma:5.0
